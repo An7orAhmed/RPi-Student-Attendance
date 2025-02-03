@@ -1,0 +1,36 @@
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\bin\Debug\Face Recognition App.exe.config
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\bin\Debug\Face Recognition App.exe
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\bin\Debug\Face Recognition App.pdb
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\bin\Debug\DirectShowLib-2005.dll
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\FaceRecognitionApp.FrmPrincipal.resources
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\FaceRecognitionApp.Properties.Resources.resources
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.GenerateResource.cache
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.CoreCompileInputs.cache
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.CopyComplete
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\Face Recognition App.exe
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\Face Recognition App.pdb
+F:\SoftwareDevelopment\FaceRecogintionWithSMS\obj\x86\Debug\FaceRecognitionApp.csprojAssemblyReference.cache
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\bin\Debug\Face Recognition App.exe.config
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\bin\Debug\Face Recognition App.exe
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\bin\Debug\Face Recognition App.pdb
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.AssemblyReference.cache
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.SuggestedBindingRedirects.cache
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.MainForm.resources
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.Properties.Resources.resources
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.GenerateResource.cache
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\FaceRecognitionApp.csproj.CopyComplete
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\Face Recognition App.exe
+D:\SoftwareDevelopment\FaceAttendanceWithSMS\obj\x86\Debug\Face Recognition App.pdb
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\bin\Debug\Face Recognition App.exe.config
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\bin\Debug\Face Recognition App.exe
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\bin\Debug\Face Recognition App.pdb
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.csproj.AssemblyReference.cache
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.csproj.SuggestedBindingRedirects.cache
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.MainForm.resources
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.Properties.Resources.resources
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.csproj.GenerateResource.cache
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\FaceRecognitionApp.csproj.CopyComplete
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\Face Recognition App.exe
+D:\SoftwareDevelopment\FaceAttendanceWithEmail\obj\x86\Debug\Face Recognition App.pdb
